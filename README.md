@@ -126,7 +126,7 @@ A garments manufacturing ERP system designed to manage interconnected business o
 * 💳 Invoicing and payment workflows
 
 <p>
-  <a href="https://gmanufacturingerp.runasp.net">
+  <a href="http://gmanufacturingerp.runasp.net/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge" />
   </a>
   <a href="https://github.com/siamhossain-Iubat/Garments-Manufacturing-ERP-">
