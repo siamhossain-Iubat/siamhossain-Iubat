@@ -158,9 +158,19 @@ A database-driven laboratory management system developed to organize patient inf
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siamhossain-Iubat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Siam's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamhossain-Iubat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=siamhossain-Iubat&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Siam's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamhossain-Iubat&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
 <p align="center">
